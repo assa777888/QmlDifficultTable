@@ -1,4 +1,5 @@
 import QtQuick 2.0
+import Style 1.0
 
 Item {
     id: mainItem
@@ -6,7 +7,7 @@ Item {
 
     Rectangle{
         anchors.fill: parent
-        color: "#dbdbcf"
+        color: _style.backgroundColor
     }
 
     function deliverFromC()
@@ -14,4 +15,5 @@ Item {
         console.log("deliver");
         mainItem.backInfoQml();
     }
+
 }

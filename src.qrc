@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/">
-        <file>qml/StyleModule/StyleProgramm.qml</file>
         <file>qml/MainDashboard.qml</file>
         <file>qml/StyleModule/qmldir</file>
+        <file>qml/StyleModule/StyleModule.qml</file>
     </qresource>
 </RCC>

@@ -1,5 +1,5 @@
 import QtQuick 2.0
-import Style 1.0
+import StyleModule 2.0
 
 Item {
     id: mainItem
@@ -16,4 +16,7 @@ Item {
         mainItem.backInfoQml();
     }
 
+    Style{
+        id: _style
+    }
 }

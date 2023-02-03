@@ -3,5 +3,8 @@
         <file>qml/MainDashboard.qml</file>
         <file>qml/StyleModule/qmldir</file>
         <file>qml/StyleModule/StyleModule.qml</file>
+        <file>qml/ListCommodity.qml</file>
+        <file>qml/ListCommodityDelegate.qml</file>
+        <file>qml/ListViewCommodity.qml</file>
     </qresource>
 </RCC>

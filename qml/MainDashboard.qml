@@ -7,7 +7,7 @@ Item {
 
     Rectangle{
         anchors.fill: parent
-        color: _style.backgroundColor
+        color: StyleModule.backgroundColor
     }
 
     function deliverFromC()
@@ -16,7 +16,11 @@ Item {
         mainItem.backInfoQml();
     }
 
-    Style{
-        id: _style
+    ListViewCommodity{
+        anchors.fill: parent
+        //width: mainItem.width
+
     }
+
+
 }

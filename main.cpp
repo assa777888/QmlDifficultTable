@@ -8,8 +8,7 @@ int main(int argc, char *argv[])
     QmlDifficultTable w;
     w.show();
 
-    QQmlApplicationEngine engine;
-    engine.addImportPath("qrc:/qml");
+
 
     return a.exec();
 }

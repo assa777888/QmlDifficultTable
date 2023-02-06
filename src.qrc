@@ -6,5 +6,10 @@
         <file>qml/ListCommodity.qml</file>
         <file>qml/ListCommodityDelegate.qml</file>
         <file>qml/ListViewCommodity.qml</file>
+        <file>images/default_image.png</file>
+        <file>main.cpp</file>
+        <file>qmldifficulttable.cpp</file>
+        <file>qmldifficulttable.h</file>
+        <file>qml/SplitBlock.qml</file>
     </qresource>
 </RCC>

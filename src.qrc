@@ -3,13 +3,15 @@
         <file>qml/MainDashboard.qml</file>
         <file>qml/StyleModule/qmldir</file>
         <file>qml/StyleModule/StyleModule.qml</file>
-        <file>qml/ListCommodity.qml</file>
-        <file>qml/ListCommodityDelegate.qml</file>
-        <file>qml/ListViewCommodity.qml</file>
         <file>images/default_image.png</file>
         <file>main.cpp</file>
         <file>qmldifficulttable.cpp</file>
         <file>qmldifficulttable.h</file>
-        <file>qml/SplitBlock.qml</file>
+        <file>qml/SettingsTable.qml</file>
+        <file>qml/MyListModule/ListCommodity.qml</file>
+        <file>qml/MyListModule/ListCommodityDelegate.qml</file>
+        <file>qml/MyListModule/ListViewCommodity.qml</file>
+        <file>qml/MyListModule/qmldir</file>
+        <file>qml/MyListModule/SplitBlock.qml</file>
     </qresource>
 </RCC>

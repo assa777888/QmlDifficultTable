@@ -6,6 +6,9 @@ ListCommodity {
       ListElement{
           name:"cherry"
       }
+      ListElement{
+          name:"cherry"
+      }
   }
 
 }
